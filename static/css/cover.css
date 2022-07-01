@@ -1,0 +1,18 @@
+body {
+  background: #2b5876;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #4e4376, #2b5876);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #4e4376, #2b5876);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.heading-text {
+  font-size: 4rem;
+
+  background: linear-gradient(94.48deg, #4AC29A 18.95%, #BDFFF3 45.5%, rgba(255, 175, 123, 0.91) 71.04%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
